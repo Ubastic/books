@@ -1,6 +1,4 @@
 http://csapp.cs.cmu.edu/3e/students.html
-
 https://golang.org/doc/effective_go.html
-
 http://www.corepython.com/
 
